@@ -1,3 +1,3 @@
 •👋 Hi, I’m @Hasnainalvi
-• I’m interested in web development.
+• I’m interested in programming.
 • I’m currently learning typescript and python.
